@@ -11,9 +11,10 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/SpaceMC665"><img src="https://github-readme-stats.vercel.app/api?username=SpaceMC665&show_icons=true&theme=holi&include_all_commits=true&amp;count_private=true&amp;count=contribs" style="margin-right: 10px;"></a>
+  <a href="https://github.com/SpaceMC665"><img src="https://github-readme-stats.vercel.app/api?username=SpaceMC665&show_icons=true&theme=holi&include_all_commits=true&amp;count_private=true&amp;count=contribs" style="margin-right: 20px;"></a>
   <a><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceMC665&layout=compact&langs_count=7&theme=holi"></a>
 </div><br>
+
 <div align="center" style="display: inline_block; margin-top: 20px;">
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
