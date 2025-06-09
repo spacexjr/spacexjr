@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/spacexjr"><img src="https://github-readme-stats.vercel.app/api?username=SpaceMC665&show_icons=true&theme=holi&include_all_commits=true&amp;count_private=true&amp;count=contribs" style="margin-right: 0px;"></a>
+  <a href="https://github.com/spacexjr"><img src="https://github-readme-stats.vercel.app/api?username=spacexjr&show_icons=true&theme=holi&include_all_commits=true&amp;count_private=true&amp;count=contribs" style="margin-right: 0px;"></a>
   <a><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacexjr&layout=compact&langs_count=7&theme=holi"></a>
 </div><br>
 
