@@ -11,14 +11,13 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/spacexjr"><img src="https://github-readme-stats.vercel.app/api?username=spacexjr&show_icons=true&theme=holi&include_all_commits=true&amp;count_private=true&amp;count=contribs" style="margin-right: 0px;"></a>
-  <a><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacexjr&layout=compact&langs_count=7&theme=holi"></a>
+  <a href="https://github.com/spacexjr"><img src="https://github-readme-stats.vercel.app/api?username=spacexjr&show_icons=true&theme=holi&include_all_commits=true&amp;count_private=true&hide=stars,contribs" style="margin-right: 10px;"></a>
+  <a><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacexjr&layout=compact&langs_count=7&theme=holi"></a>
 </div><br>
 
 <div align="center" style="display: inline_block; margin-top: 20px;">
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
