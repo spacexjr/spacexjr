@@ -1,27 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+<h1 align="center">Oi 👋, Sou o Space</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spacexjr&label=Profile%20views&color=0e75b6&style=flat" alt="spacexjr" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/space.system" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="space.system" height="30" width="40" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Bom+Dia,+Tudo+Bem?;+Sou+o+Space!)](https://git.io/typing-svg)
-
-<div align="center" style="display: inline_block; margin-bottom: 20px;"><br>
-  <a href="https://discord.com//spaceisback.xjr"><img align="center" alt="Discord" height="30" width="120" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <img align="center" alt="Profile Views" height="30" width="180" src="https://komarev.com/ghpvc/?username=SpaceMC665&style=for-the-badge">
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/spacexjr"><img src="https://github-readme-stats.vercel.app/api?username=spacexjr&show_icons=true&theme=holi&include_all_commits=true&amp;count_private=true&hide=stars,contribs" style="margin-right: 10px;"></a>
-  <a><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacexjr&layout=compact&langs_count=7&theme=holi"></a>
-</div><br>
-
-<div align="center" style="display: inline_block; margin-top: 20px;">
-  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
