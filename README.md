@@ -7,18 +7,6 @@
   <img align="center" alt="Profile Views" height="30" width="180" src="https://komarev.com/ghpvc/?username=SpaceMC665&style=for-the-badge&color=800080">
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/spacexjr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spacexjr&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacexjr&layout=compact&langs_count=7&theme=holi"/>
-  </a>
-</div>
-
----
-
 ## 🚀 Tecnologias
 <div align="center" style="display: inline_block; margin-top: 20px;">
   <img align="center" alt="VS Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
