@@ -8,14 +8,36 @@
 </div>
 
 ## 🚀 Tecnologias
-<div align="center" style="display: inline_block; margin-top: 20px;">
-  <img align="center" alt="VS Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Postgres" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<div align="center">
+  <!-- IDE / Dev -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  &nbsp;&nbsp;
+
+  <!-- Linguagens -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  &nbsp;&nbsp;
+
+  <!-- Backend / DB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
+
+  <!-- Android / Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="Android (ADB / Fastboot)"/>
+  &nbsp;&nbsp;
+
+  <!-- OS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows"/>
+  &nbsp;&nbsp;
+
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </div>
+
 
 ---
 
