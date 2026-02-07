@@ -7,36 +7,43 @@
   <img align="center" alt="Profile Views" height="30" width="180" src="https://komarev.com/ghpvc/?username=SpaceMC665&style=for-the-badge&color=800080">
 </div>
 
-## 🚀 Tecnologias
+<h2>🚀 Tecnologias</h2>
+
 <div align="center">
-  <!-- IDE / Dev -->
+  <!-- Android / IDE -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="Android"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
   &nbsp;&nbsp;
 
   <!-- Linguagens -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   &nbsp;&nbsp;
 
   <!-- Backend / DB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   &nbsp;&nbsp;
 
-  <!-- Android / Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="Android (ADB / Fastboot)"/>
+  <!-- Tools / OS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="ADB / Fastboot"/>
   &nbsp;&nbsp;
-
-  <!-- OS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows"/>
   &nbsp;&nbsp;
-
-  <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </div>
+
 
 
 ---
