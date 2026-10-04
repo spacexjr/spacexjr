@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=👋+Bem-vindo!;Eu+sou+o+Space!;Dev+💻+|+Gamer+🎮+|Android🤖)](https://git.io/typing-svg)
 
+
+<div align="center" style="display: inline_block; margin-bottom: 20px;">
 <a href="https://discord.com/users/spaceisback.xjr">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
