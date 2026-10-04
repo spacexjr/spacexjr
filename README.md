@@ -1,9 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
 <div align="center">
-
-# 👋 Olá! Eu sou o Space
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080\&size=35\&center=true\&vCenter=true\&width=1000\&lines=👋+Bem-vindo!;Eu+sou+o+Space!;Dev+💻+%7C+Gamer+🎮+%7C+Android+🤖)](https://git.io/typing-svg)
 
 <br>
@@ -12,7 +9,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SpaceMC665&style=for-the-badge&color=800080" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=spacexjr&style=for-the-badge&color=800080" alt="Profile Views"/>
 
 </div>
 
@@ -24,9 +21,7 @@
 
 ### 💻 Desenvolvimento
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="45" alt="Android Studio"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" alt="C"/>
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
 &nbsp;&nbsp;
@@ -35,6 +30,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python"/>
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="45" alt="Android Studio"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
 
 <br><br>
 
@@ -69,8 +70,10 @@
 ## 🧑‍💻 Sobre mim
 
 ```text
+👨‍💻 17 years
 💻 Developer
-🤖 Android / Custom ROMs / Kernel
+⚡ C / Kernel Development
+🤖 Android / Custom ROMs
 🐧 Linux enthusiast
 🎮 Gamer
 🔧 Hardware & Software
@@ -83,6 +86,6 @@
 
 ### ⭐ Obrigado por visitar meu perfil!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 
 </div>
