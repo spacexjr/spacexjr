@@ -221,21 +221,14 @@ An Android-related project focused on partition and low-level device tooling.
 ## 💜 Philosophy
 
 > **"If I don't know how it works, I'll figure it out."**
-
-I like learning by experimenting, breaking things, rebuilding them and turning the result into something useful.
-
+> **"Build. Break. Learn. Repeat."**
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-<br>
-
-**Build. Break. Learn. Repeat.**
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=160&section=footer"/>
 
-</div>s.vercel.app/api/top-langs/?username=spacexjr&layout=compact&theme=midni
+</div>
