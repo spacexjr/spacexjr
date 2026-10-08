@@ -45,6 +45,7 @@ I enjoy taking things apart, understanding how they work, and building my own to
 
 <div align="center">
 
+
 ### ⚡ Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,kotlin,bash,html,css" />
@@ -62,6 +63,11 @@ I enjoy taking things apart, understanding how they work, and building my own to
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" />
 
 </div>
+
+### Devices 
+> POCO X7 Pro 5G
+> Samsung Galaxy S21 FE 5G
+> Samsung Galaxy A22 4G
 
 ---
 
