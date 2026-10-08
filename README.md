@@ -65,8 +65,13 @@ I enjoy taking things apart, understanding how they work, and building my own to
 </div>
 
 ### Devices 
+
 POCO X7 Pro 5G
+
+POCO M5 (Bricked =( )
+
 Samsung Galaxy S21 FE 5G (Exynos)
+
 Samsung Galaxy A22 4G
 
 ---
