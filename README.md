@@ -232,6 +232,7 @@ An Android-related project focused on partition and low-level device tooling.
 ## 💜 Philosophy
 
 > **"If I don't know how it works, I'll figure it out."**
+> 
 > **"Build. Break. Learn. Repeat."**
 ---
 
