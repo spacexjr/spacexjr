@@ -66,6 +66,18 @@ I enjoy taking things apart, understanding how they work, and building my own to
 
 ### Devices 
 
+PCs
+
+Ryzen 5 5600g - RX 7600 - 16gb RAM - 2,1tb SSD/HD
+
+Intel I3 1215U - 12gb RAM - 256gb SSD
+
+
+
+Phones
+
+
+
 POCO X7 Pro 5G
 
 POCO M5 (Bricked =( )
