@@ -127,36 +127,6 @@ Power Off
 
 ---
 
-### 📱 A22 Kernel Source
-
-Kernel development work for the **Samsung Galaxy A22 / SM-A225M**.
-
-Focused on experimenting with kernel configuration, Android kernel development and custom kernel features.
-
-**Stack:** `C` `Linux Kernel` `Android` `ARM64`
-
-→ **[View Kernel Source](https://github.com/spacexjr/a225m_kernel_source)**
-
----
-
-### 🦊 OrangeFox — rodin
-
-Runtime-verified OrangeFox Recovery source for **Xiaomi rodin / POCO X7 Pro / Redmi Turbo 4**.
-
-**Stack:** `Android` `Recovery` `Shell` `C/C++`
-
-→ **[View Project](https://github.com/spacexjr/OrangeFox-rodin-source)**
-
----
-
-### 🔬 part2dump
-
-An Android-related project focused on partition and low-level device tooling.
-
-→ **[View part2dump](https://github.com/spacexjr/part2dump)**
-
----
-
 ## 🧠 Currently Learning
 
 ```text
