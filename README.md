@@ -31,8 +31,8 @@ I enjoy taking things apart, understanding how they work, and building my own to
 ```text
 👨‍💻 17 years old
 🇧🇷 Brazil
-⚡ C / C / Shell / JavaScript
-🤖 Android / Custom ROMs / Recovery
+⚡ C / Python / Shell / JavaScript
+🤖 Android / Custom ROMs / Recovery / LLM
 🐧 Linux / Kernel Development
 🔧 Boot / Ramdisk / System Internals
 🎮 Minecraft / Discord Development
