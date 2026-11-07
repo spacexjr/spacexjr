@@ -88,26 +88,7 @@
 ## ▸ 03 // CONTRIBUIÇÕES
 
 <div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spacexjr&theme=github" width="96%" alt="Resumo das contribuições do GitHub">
-
-  <br><br>
-
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=spacexjr&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFF8E1&title_color=17483E&text_color=496B60&icon_color=4A9D7C" width="100%" alt="Estatísticas do GitHub">
-      </td>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com?user=spacexjr&hide_border=true&background=FFF8E1&ring=4A9D7C&fire=C98B35&currStreakLabel=17483E&sideLabels=17483E&currStreakNum=17483E&sideNums=496B60&dates=496B60" width="100%" alt="Sequência de contribuições">
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spacexjr&bg_color=FFF8E1&color=17483E&line=4A9D7C&point=C98B35&area=true&hide_border=true" width="96%" alt="Gráfico de contribuições">
-
+  <img src="https://streak-stats.demolab.com?user=spacexjr&theme=github-dark&hide_border=true&background=0D1117&ring=4A9D7C&fire=C98B35&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="70%" alt="Sequência de contribuições do GitHub">
 </div>
 
 ## ▸ 04 // CONTATO
