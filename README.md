@@ -3,13 +3,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/spacexjr/Portifolio/main/assets/bmo.png" width="170" alt="BMO de Hora de Aventura">
   <br>
-  <samp> BMO PERSONAL COMPUTER // USER: SPACEXJR </samp>
-  <h1>Oi! Eu sou Renatto.</h1>
+  <samp>root@bmo ~> backend.sh</samp>
+  <h1>Yay,BMO!</h1>
   <p><strong>Desenvolvedor independente, curioso por sistemas, Android e Linux.</strong></p>
   <p>Gosto de desmontar ideias, entender como funcionam e construir minhas próprias soluções.</p>
   <br>
   <a href="https://spacexjr.github.io/Portifolio/"><img src="https://img.shields.io/badge/▶_MEU_PORTFÓLIO-17483E?style=for-the-badge&logoColor=white" alt="Meu portfólio"></a>
-  <a href="https://github.com/spacexjr?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-BMO_OS-4A9D7C?style=for-the-badge" alt="Projetos"></a>
+  <a href="https://github.com/spacexjr?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-4A9D7C?style=for-the-badge" alt="Projetos"></a>
 </div>
 
 ---
