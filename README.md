@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/spacexjr/Portifolio/main/assets/bmo.png" width="170" alt="BMO de Hora de Aventura">
   <br>
   <samp>root@bmo ~> backend.sh</samp>
-  <h1>Yay,BMO!</h1>
+  <h1>Yay, BMO!</h1>
   <p><strong>Desenvolvedor independente, curioso por sistemas, Android e Linux.</strong></p>
   <p>Gosto de desmontar ideias, entender como funcionam e construir minhas próprias soluções.</p>
   <br>
