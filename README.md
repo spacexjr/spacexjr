@@ -1,230 +1,65 @@
+<!-- Space · GitHub profile -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=160&section=header"/>
+# Space
 
-# 👋 Hey, I'm Space
+**Software developer focused on Android, Linux and low-level systems.**
 
-### 17 y/o Developer from Brazil 🇧🇷
+Brazil · Open source · Systems development
 
-**Android • Linux • C • Kernel Development • Open Source**
-
-<br>
-
-<a href="https://github.com/spacexjr">
-<img src="https://komarev.com/ghpvc/?username=spacexjr&style=for-the-badge&color=800080&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/spacexjr?tab=followers">
-<img src="https://img.shields.io/github/followers/spacexjr?style=for-the-badge&color=800080&label=FOLLOWERS" alt="Followers"/>
-</a>
+[GitHub](https://github.com/spacexjr) · [Projects](https://github.com/spacexjr?tab=repositories)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-I'm a developer interested in **low-level software, Android internals, Linux and open-source development**.
+I build software to understand and extend the systems it runs on.
 
-I enjoy taking things apart, understanding how they work, and building my own tools around them.
+My main interests are Android internals, Linux, boot processes, low-level programming and tools that connect different platforms. I enjoy investigating how things work, testing ideas on real hardware and documenting the results.
 
-```text
-👨‍💻 17 years old
-🇧🇷 Brazil
-⚡ C / Python / Shell / JavaScript
-🤖 Android / Custom ROMs / Recovery / LLM
-🐧 Linux / Kernel Development
-🔧 Boot / Ramdisk / System Internals
-🎮 Minecraft / Discord Development
-🚀 Open Source
-```
+I value practical engineering: clear scope, reproducible builds, honest status reports and explicit limitations.
 
----
+## Selected projects
 
-## 🛠️ What I Work With
+### [saturnBMO](https://github.com/spacexjr/saturnBMO)
+A local-first desktop assistant with an Android face and voice interface. The Android app handles the display, microphone and audio playback, while a Linux PC runs speech processing, the language model and speech synthesis.
 
-<div align="center">
+**Kotlin · Python · Android · FastAPI · ONNX Runtime · Ollama**
 
+### [JupiterBoot](https://github.com/spacexjr/JupiterBoot)
+A graphical Android boot menu integrated into the boot ramdisk. Its freestanding AArch64 init presents the menu and chains to the original Android init when the system is selected.
 
-### ⚡ Languages
+**C · AArch64 · Linux · Android boot process**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,kotlin,bash,html,css" />
+### [SideralBOT](https://github.com/spacexjr/SideralBOT)
+A Discord bot that bridges Discord communities and Minecraft Bedrock servers, with chat synchronization and server-management commands.
 
-<br><br>
+**Node.js · JavaScript · Discord.js · bedrock-protocol**
 
-### 🤖 Android & Low Level
+## Technical interests
 
-<img src="https://skillicons.dev/icons?i=android,linux" />
+- Android internals, boot images and custom recovery development
+- Linux systems and kernel-related work
+- C, AArch64 and low-level programming
+- Local AI, speech pipelines and on-device interfaces
+- Automation, networking and open-source tooling
 
-<br><br>
+## Tools and languages
 
-### 🔧 Development Tools
+C · Kotlin · Python · JavaScript · Shell · Linux · Android · Git · Docker
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" />
+## Find me
 
-</div>
+- GitHub: [@spacexjr](https://github.com/spacexjr)
+- Discord: [spaceisback.xjr](https://discord.com/users/spaceisback.xjr)
 
-### Devices 
-
-PCs
-
-Ryzen 5 5600g - RX 7600 - 16gb RAM - 2,1tb SSD/HD
-
-Intel I3 1215U - 12gb RAM - 256gb SSD
-
-
-
-Phones
-
-
-
-POCO X7 Pro 5G
-
-POCO M5 (Bricked =( )
-
-Samsung Galaxy S21 FE 5G (Exynos)
-
-Samsung Galaxy A22 4G
-
----
-
-## 🚀 Featured Projects
-
-### 🌌 SideralBOT
-
-**Discord × Minecraft Bedrock**
-
-A Discord bot and Minecraft Bedrock bridge built with **Node.js and Discord.js**.
-
-Features include Discord ↔ Minecraft communication, server management and Minecraft integration.
-
-**Stack:** `Node.js` `JavaScript` `Discord.js` `Bedrock Protocol`
-
-→ **[View SideralBOT](https://github.com/spacexjr/SideralBOT)**
-
----
-
-### ⚡ JupiterBoot
-
-**Android Boot Menu written in C**
-
-A graphical and touch-driven boot menu injected into the `boot` ramdisk of the Samsung Galaxy A22.
-
-The project uses a **freestanding AArch64 `/init` binary without libc**, providing a boot menu before Android starts.
-
-```text
-System
-Recovery
-Fastboot
-Download
-Reboot
-Power Off
-```
-
-**Stack:** `C` `AArch64 Assembly` `Linux` `Android Boot` `Ramdisk`
-
-→ **[View JupiterBoot](https://github.com/spacexjr/JupiterBoot)**
-
----
-
-## 🧠 Currently Learning
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  C & Low-Level Programming                  │
-│  Linux Kernel Development                   │
-│  Android Boot Process                       │
-│  Bootloaders & Ramdisks                     │
-│  Custom Recovery Development               │
-│  AArch64 Assembly                            │
-│  Android Internals                          │
-│  Embedded / Systems Programming             │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## 🔥 Areas of Interest
-
-* 🧩 Android internals
-* ⚡ Linux kernel
-* 🧠 Low-level programming
-* 🔧 Bootloaders
-* 📦 Boot images & ramdisks
-* 🦊 Custom recoveries
-* 📱 Custom ROM development
-* 🐧 Linux systems
-* 🔬 Reverse engineering
-* 🌐 Open-source software
-* 🎮 Minecraft development
-* 🤖 Discord bots
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=spacexjr&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacexjr&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=spacexjr&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spacexjr&theme=high-contrast&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-<a href="https://github.com/spacexjr">
-<img src="https://img.shields.io/badge/GitHub-spacexjr-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://discord.com/users/spaceisback.xjr">
-<img src="https://img.shields.io/badge/Discord-spaceisback.xjr-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-</div>
-
----
-
-## 💜 Philosophy
-
-> **"If I don't know how it works, I'll figure it out."**
-> 
-> **"Build. Break. Learn. Repeat."**
->
-> **"Awawawawawawawa"**
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=160&section=footer"/>
+*Build carefully. Understand deeply. Share what works.*
 
 </div>
