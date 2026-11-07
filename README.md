@@ -8,7 +8,7 @@
   <p><strong>Desenvolvedor independente, curioso por sistemas, Android e Linux.</strong></p>
   <p>Gosto de desmontar ideias, entender como funcionam e construir minhas próprias soluções.</p>
   <br>
-  <a href="https://spacexjr.github.io/Portifolio/"><img src="https://img.shields.io/badge/▶_MEU_PORTFÓLIO-17483E?style=for-the-badge&logoColor=white" alt="Meu portfólio"></a>
+  <a href="https://spacexjr.github.io/Portfolio/"><img src="https://img.shields.io/badge/▶_MEU_PORTFÓLIO-17483E?style=for-the-badge&logoColor=white" alt="Meu portfólio"></a>
   <a href="https://github.com/spacexjr?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-4A9D7C?style=for-the-badge" alt="Projetos"></a>
 </div>
 
@@ -95,7 +95,7 @@
 
 - **GitHub:** [@spacexjr](https://github.com/spacexjr)
 - **Discord:** [spaceisback.xjr](https://discord.com/users/spaceisback.xjr)
-- **Portfólio:** [space.sh](https://spacexjr.github.io/Portifolio/)
+- **Portfólio:** [space.sh](https://spacexjr.github.io/Portfolio/)
 
 ---
 
