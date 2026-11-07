@@ -1,15 +1,15 @@
 <!-- Space · GitHub profile -->
 
 <div align="center">
-
-# Space
-
-**Software developer focused on Android, Linux and low-level systems.**
-
-Brazil · Open source · Systems development
-
-[GitHub](https://github.com/spacexjr) · [Projects](https://github.com/spacexjr?tab=repositories)
-
+  <img src="https://image.pngaaa.com/859/376859-middle.png" width="180" alt="BMO de Adventure Time acenando">
+  <br>
+  <h1>Space</h1>
+  <strong>Software developer focused on Android, Linux and low-level systems.</strong>
+  <br><br>
+  <sub>Brazil · Open source · Systems development</sub>
+  <br><br>
+  <a href="https://github.com/spacexjr">GitHub</a> ·
+  <a href="https://github.com/spacexjr?tab=repositories">Projects</a>
 </div>
 
 ---
@@ -56,10 +56,10 @@ C · Kotlin · Python · JavaScript · Shell · Linux · Android · Git · Docke
 - GitHub: [@spacexjr](https://github.com/spacexjr)
 - Discord: [spaceisback.xjr](https://discord.com/users/spaceisback.xjr)
 
----
-
 <div align="center">
-
-*Build carefully. Understand deeply. Share what works.*
-
+  <img src="https://www.pngfind.com/pngs/m/692-6926112_adventuretime-gameboy-videogame-console-nintendo-finn-adventure-time.png" width="145" alt="BMO em pose de caminhada">
+  <br>
+  <sub>BMO character artwork · <a href="https://www.pngfind.com/mpng/TixTmhb_adventuretime-gameboy-videogame-console-nintendo-finn-adventure-time/">image source</a></sub>
+  <br><br>
+  <em>Build carefully. Understand deeply. Share what works.</em>
 </div>
